@@ -14,7 +14,7 @@
 ---
 
 ## 📷 Screenshot
-![Website Output]()
+![Website Output](website-ouput.png)
 
 ---
 
