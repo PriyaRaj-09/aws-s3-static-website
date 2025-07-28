@@ -12,7 +12,6 @@
 - Bucket Policy
 
 ---
-
 ## 📷 Screenshot
 ![Website Output](website-output.png)
 
