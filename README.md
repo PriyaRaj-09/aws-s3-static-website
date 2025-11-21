@@ -1,7 +1,7 @@
 # 🌐 AWS S3 Static Website Hosting
 
-## 🔗 Live Website
-[Click here to view](http://devi-s3-static-website.s3-website.ap-south-1.amazonaws.com)
+
+
 
 ---
 
